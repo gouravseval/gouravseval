@@ -126,4 +126,4 @@ Developed EV charging station booking and management dashboards. Integrated REST
 
 > 💬 Open to **Frontend · Full Stack** roles · Remote · Open to relocation
 >
-> 📧 gouravjangra033@gmail.com · 📞 +91 98027 76676 · 📍 Haryana, India
+> 📧 gouravjangra033@gmail.com · 📍 Haryana, India
